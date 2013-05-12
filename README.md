@@ -1,4 +1,4 @@
 bbgroup
 =======
 
-little project from two man
+little project from two men
